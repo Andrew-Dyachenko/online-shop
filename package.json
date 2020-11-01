@@ -1,0 +1,26 @@
+{
+    "name": "online-shop",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel ./index.html",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DannilBurmatov/online-shop.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/DannilBurmatov/online-shop/issues"
+    },
+    "homepage": "https://github.com/DannilBurmatov/online-shop#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "posthtml-modules": "^0.6.2",
+        "posthtml-w3c": "^0.9.0"
+    }
+}
